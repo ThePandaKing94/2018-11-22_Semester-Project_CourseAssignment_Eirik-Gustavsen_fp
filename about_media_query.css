@@ -1,0 +1,49 @@
+@media only screen and (max-width: 600px) {
+
+body {
+  max-width: 97%;
+  width: 97%;
+}
+
+#intro {
+  max-width: 90%;
+  font-size: 15px;
+}
+
+.aboutmainimage {
+  display: none;
+}
+
+.aboutInfo {
+  max-width: 90%;
+  font-size: 15px;
+}
+
+.aboutList {
+  max-width: 80%;
+  width: 80%;
+  font-size: 14px;
+}
+
+.text {
+  font-size: 15px;
+}
+
+}
+
+@media only screen and (min-width: 600px) and (max-width: 1250px) {
+
+  .aboutmainimage {
+    width: 50% ;
+    height: 50%;
+    margin-top: 5%;
+
+  }
+
+.aboutList {
+  max-width: 80%;
+  width: 80%;
+  font-size: 14px;
+}
+
+}

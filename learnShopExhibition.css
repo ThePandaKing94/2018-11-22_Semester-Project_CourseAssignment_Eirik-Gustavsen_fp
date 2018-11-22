@@ -1,0 +1,27 @@
+.articles {
+  display: flex;
+  flex-direction: column;
+}
+
+.article {
+  display: flex;
+  flex-direction: row;
+  margin-top: 2%;
+}
+
+.articleText {
+  max-width: 50%;
+  font-size: 18px;
+  margin-top: 3%;
+}
+
+.articleIntro {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 2%;
+}
+
+h2 {
+  text-align: center;
+}

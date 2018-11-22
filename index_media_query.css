@@ -1,0 +1,15 @@
+@media only screen and (max-width: 600px) {
+
+.articleText {
+  font-size: 15px;
+}
+
+.newsTitle {
+  font-size: 25px;
+}
+
+.articles {
+  display: block;
+  margin: 0 auto;
+}
+}

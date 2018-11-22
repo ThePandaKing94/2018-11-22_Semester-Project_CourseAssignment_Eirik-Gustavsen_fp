@@ -1,0 +1,115 @@
+body {
+  max-width: 70%;
+  margin: 0 auto;
+  font-family: 'Oswald', sans-serif;
+}
+
+.EchoVoid {
+  font-size: 70px;
+  padding: 10px;
+  margin: 0 auto;
+  margin-bottom: 60px;
+}
+
+#aboutTitle {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.logo {
+  width: 250px;
+  margin: 20px;
+}
+
+.top1 {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+}
+
+.title {
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.search {
+   float: right;
+}
+
+.navigations {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+margin: 0 auto;
+justify-content:center;
+ }
+
+.buttonNav {
+  text-align: center;
+}
+
+.logo {
+  float: left;
+}
+
+.logoImage {
+  width: 80px;
+  height: 80px;
+}
+
+.title {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+
+.image {
+  width: 40%;
+  margin-left: auto;
+  margin-top: 5%;
+}
+
+.search {
+  margin-top: 20px;
+  text-align: right;
+  margin-bottom: auto;
+}
+
+.SearchBar {
+  border: 1.5px solid black;
+  border-radius: 25px;
+  height: 30px;
+  width: 250px;
+  padding-left: 10px;
+}
+
+/*body starts here*/
+
+.navigations {
+  margin: 25px 5px;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  padding: 10px;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.home-button {
+  width: 30px;
+  height: 30px;
+  margin-top: 3px;
+  cursor:pointer;
+}
+
+.siteButton {
+  border: 3px solid grey;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  shape-margin: 10px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+  margin: 0px 3px;
+  cursor:pointer;
+}
